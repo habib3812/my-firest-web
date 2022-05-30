@@ -1,0 +1,50 @@
+body {
+    font-family: 'Libre Baskerville', serif;
+    margin: 0%;
+}
+
+.main {
+    display: flex;
+    margin-bottom: 10%;
+
+}
+
+.bg-banar {
+    background-image: url(photo/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.hap-with {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.button {
+    font-weight: 800;
+    color: aliceblue;
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.hap-with img {
+    width: 80%;
+    border-radius: 80px;
+
+}
+
+h1 {
+    font-size: 50px;
+}
+
+
+span {
+    color: blue;
+}
+
+.drim-bing {
+    background-image: url(photo/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
